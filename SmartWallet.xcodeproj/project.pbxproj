@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		20062F6617945B410031AF53 /* PromotionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 20062F6517945B410031AF53 /* PromotionViewController.m */; };
 		20622099179669B0005043F3 /* PromotionDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 20622098179669B0005043F3 /* PromotionDetailViewController.m */; };
 		20680C031795C0A8005B04C1 /* PromotionTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 20680C021795C0A8005B04C1 /* PromotionTableViewController.m */; };
 		20C235F2178F0665000DBA17 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 20C235F1178F0665000DBA17 /* Foundation.framework */; };
@@ -46,8 +45,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		20062F6417945B410031AF53 /* PromotionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PromotionViewController.h; path = ../PromotionViewController.h; sourceTree = "<group>"; };
-		20062F6517945B410031AF53 /* PromotionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PromotionViewController.m; path = ../PromotionViewController.m; sourceTree = "<group>"; };
 		20622097179669B0005043F3 /* PromotionDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PromotionDetailViewController.h; sourceTree = "<group>"; };
 		20622098179669B0005043F3 /* PromotionDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PromotionDetailViewController.m; sourceTree = "<group>"; };
 		20680C011795C0A8005B04C1 /* PromotionTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PromotionTableViewController.h; sourceTree = "<group>"; };
@@ -150,8 +147,6 @@
 		20C235F7178F0665000DBA17 /* SmartWallet */ = {
 			isa = PBXGroup;
 			children = (
-				20062F6417945B410031AF53 /* PromotionViewController.h */,
-				20062F6517945B410031AF53 /* PromotionViewController.m */,
 				20622097179669B0005043F3 /* PromotionDetailViewController.h */,
 				20622098179669B0005043F3 /* PromotionDetailViewController.m */,
 				20C23600178F0665000DBA17 /* AppDelegate.h */,
@@ -320,7 +315,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				20622099179669B0005043F3 /* PromotionDetailViewController.m in Sources */,
-				20062F6617945B410031AF53 /* PromotionViewController.m in Sources */,
 				20C2363C178F0695000DBA17 /* AFImageRequestOperation.m in Sources */,
 				20C23608178F0665000DBA17 /* ViewController.m in Sources */,
 				20C2363F178F0695000DBA17 /* AFPropertyListRequestOperation.m in Sources */,
