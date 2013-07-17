@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2D9C4C5F-A811-4017-B19C-88C831B59122</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SmartWallet</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4F196D47-D8EB-4847-AD8E-FF9742A807C7</key>
+		<string>https://github.com/qapquiz/SmartWallet---Final-year-project.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SmartWallet.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4F196D47-D8EB-4847-AD8E-FF9742A807C7</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/qapquiz/SmartWallet---Final-year-project.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4F196D47-D8EB-4847-AD8E-FF9742A807C7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4F196D47-D8EB-4847-AD8E-FF9742A807C7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SmartWallet</string>
+		</dict>
+	</array>
+</dict>
+</plist>

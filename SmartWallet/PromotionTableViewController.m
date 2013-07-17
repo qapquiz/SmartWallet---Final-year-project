@@ -84,10 +84,10 @@
     
     return cell;
 }
-/*
+
 -(void) tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
-    [self performSegueWithIdentifier:@"detailPromotion" sender:self.tableView];
-}*/
+    [self performSegueWithIdentifier:@"detailPromotion" sender:self];
+}
 
 /*
 // Override to support conditional editing of the table view.
@@ -132,11 +132,11 @@
 #pragma mark - Navigation
 
 // In a story board-based application, you will often want to do a little preparation before navigation
-/*- (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender
+- (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender
 {
     // Get the new view controller using [segue destinationViewController].
     // Pass the selected object to the new view controller.
-    if ([[segue identifier] isEqualToString:@"deailPromotion"]) {
+    if ([[segue identifier] isEqualToString:@"detailPromotion"]) {
         NSIndexPath *indexPath;
         if ([sender isKindOfClass:[NSIndexPath  class]]) {
             indexPath = (NSIndexPath *) sender;
@@ -148,6 +148,7 @@
         PromotionDetailViewController *promotionDetailPage = (PromotionDetailViewController *) segue.destinationViewController;
         promotionDetailPage.promotionDictDetail = promotionDictForSegue;
     }
-}*/
+}
+
 
 @end

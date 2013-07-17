@@ -28,6 +28,9 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view.
     NSLog(@"promotionDeatilDict: \n%@", self.promotionDictDetail);
+    self.titleDetailLabel.text = [self.promotionDictDetail valueForKey:@"title"];
+    self.categoryDetailLabel.text = [self.promotionDictDetail valueForKey:@"category"];
+    self.typeDetailLabel.text = [self.promotionDictDetail valueForKey:@"type"];
 }
 
 - (void)didReceiveMemoryWarning
