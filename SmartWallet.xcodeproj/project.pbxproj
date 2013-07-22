@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		20622099179669B0005043F3 /* PromotionDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 20622098179669B0005043F3 /* PromotionDetailViewController.m */; };
 		20680C031795C0A8005B04C1 /* PromotionTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 20680C021795C0A8005B04C1 /* PromotionTableViewController.m */; };
+		20817B70179BEA2E009C885B /* testViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 20817B6F179BEA2E009C885B /* testViewController.m */; };
 		20C235F2178F0665000DBA17 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 20C235F1178F0665000DBA17 /* Foundation.framework */; };
 		20C235F4178F0665000DBA17 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 20C235F3178F0665000DBA17 /* CoreGraphics.framework */; };
 		20C235F6178F0665000DBA17 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 20C235F5178F0665000DBA17 /* UIKit.framework */; };
@@ -49,6 +50,8 @@
 		20622098179669B0005043F3 /* PromotionDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PromotionDetailViewController.m; sourceTree = "<group>"; };
 		20680C011795C0A8005B04C1 /* PromotionTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PromotionTableViewController.h; sourceTree = "<group>"; };
 		20680C021795C0A8005B04C1 /* PromotionTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PromotionTableViewController.m; sourceTree = "<group>"; };
+		20817B6E179BEA2E009C885B /* testViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = testViewController.h; sourceTree = "<group>"; };
+		20817B6F179BEA2E009C885B /* testViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = testViewController.m; sourceTree = "<group>"; };
 		20C235EE178F0665000DBA17 /* SmartWallet.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SmartWallet.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		20C235F1178F0665000DBA17 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		20C235F3178F0665000DBA17 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -152,6 +155,8 @@
 				20C23600178F0665000DBA17 /* AppDelegate.h */,
 				20C23601178F0665000DBA17 /* AppDelegate.m */,
 				20C23603178F0665000DBA17 /* Main.storyboard */,
+				20817B6E179BEA2E009C885B /* testViewController.h */,
+				20817B6F179BEA2E009C885B /* testViewController.m */,
 				20680C011795C0A8005B04C1 /* PromotionTableViewController.h */,
 				20680C021795C0A8005B04C1 /* PromotionTableViewController.m */,
 				20C23606178F0665000DBA17 /* ViewController.h */,
@@ -323,6 +328,7 @@
 				20C23641178F0695000DBA17 /* AFXMLRequestOperation.m in Sources */,
 				20C2363D178F0695000DBA17 /* AFJSONRequestOperation.m in Sources */,
 				20C23642178F0695000DBA17 /* UIImageView+AFNetworking.m in Sources */,
+				20817B70179BEA2E009C885B /* testViewController.m in Sources */,
 				20680C031795C0A8005B04C1 /* PromotionTableViewController.m in Sources */,
 				20C2363E178F0695000DBA17 /* AFNetworkActivityIndicatorManager.m in Sources */,
 				20C2363B178F0695000DBA17 /* AFHTTPRequestOperation.m in Sources */,

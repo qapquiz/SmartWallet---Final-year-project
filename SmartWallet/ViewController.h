@@ -18,6 +18,7 @@
 - (IBAction)backgroundClicked:(id)sender;
 - (IBAction)usernameTextFieldKeyBoardDown:(id)sender;
 - (IBAction)passwordTextFieldKeyBoardDown:(id)sender;
+- (void)showLoginFailedAlert;
 
 
 @end
